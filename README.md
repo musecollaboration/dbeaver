@@ -27,4 +27,5 @@ PostgreSQL доступен на `5432`
 
 MySQL доступен на `3306`
 
-![image](https://github.com/user-attachments/assets/5dfcb25c-0522-4406-95eb-cd0616dbd3e6)
+![image](https://github.com/user-attachments/assets/5c60bac7-92c8-4de5-9d70-6c09c02e17d2)
+
